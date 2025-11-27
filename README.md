@@ -4,7 +4,7 @@ Projet personnel de montre « multimode » implémentée sur FPGA (carte DE1 Cyc
 et deux **composants personnalisés Avalon-MM** :
 
 - `CHRONO`     : chronomètre matériel,
-- `ALARM_BELL` : gestion de l’alarme et du chenillard de LEDs.
+- `ALARM_BELL` : gestion de la sonnerie d'alarme sous forme de chenillard de LEDs.
 
 L’application affiche l’heure, un chronomètre ou un mode alarme sur les 4 afficheurs 7 segments de la carte,
 et utilise un chenillard de LEDs lorsque l’alarme se déclenche.
