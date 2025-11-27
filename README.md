@@ -3,7 +3,7 @@
 Projet personnel de montre « multimode » implémentée sur FPGA (carte DE1 Cyclone II) avec un processeur **Nios II**
 et deux **composants personnalisés Avalon-MM** :
 
-- `CHRONO`     : moteur de chronomètre matériel,
+- `CHRONO`     : chronomètre matériel,
 - `ALARM_BELL` : gestion de l’alarme et du chenillard de LEDs.
 
 L’application affiche l’heure, un chronomètre ou un mode alarme sur les 4 afficheurs 7 segments de la carte,
