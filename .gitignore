@@ -1,0 +1,21 @@
+# Dossiers de build Quartus
+db/
+incremental_db/
+simulation/
+output_files/
+
+# Fichiers temporaires
+*.rpt
+*.log
+*.smsg
+*.bak
+
+# ModelSim
+work/
+vsim.wlf
+transcript
+
+# Autres
+*.sof
+*.pof
+*.jic
